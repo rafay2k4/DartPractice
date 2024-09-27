@@ -11,4 +11,7 @@ class SchoolFriend {
   int? rollNo;
 
   SchoolFriend({required this.name, required this.rollNo});
+
+
+  
 }
